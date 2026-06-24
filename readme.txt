@@ -1,2 +1,1 @@
-Branch version
-Hello from branch
+Hello from main

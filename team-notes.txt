@@ -1,3 +1,4 @@
 Project started June 2026
 Team members: You and Claude
 Goal: Learn Git as a team
+Deadline: July 2026
